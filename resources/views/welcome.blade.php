@@ -9,6 +9,6 @@
     @parent
 
     <script>
-        actions.TitleBar.create(app, { title: 'Welcome' });
+        actions.TitleBar.create(app, { title: 'Welcome Ahmed Ebead' });
     </script>
 @endsection
